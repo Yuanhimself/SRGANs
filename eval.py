@@ -1,12 +1,4 @@
-#!/usr/bin/env python
-# -*- encoding: utf-8 -*-
-'''
-@文件        :eval.py
-@说明        :算法评估
-@时间        :2020/02/13 09:31:07
-@作者        :钱彬
-@版本        :1.0
-'''
+
 
 
 from utils import *

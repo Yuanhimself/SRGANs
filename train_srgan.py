@@ -1,12 +1,3 @@
-#!/usr/bin/env python
-# -*- encoding: utf-8 -*-
-'''
-@文件        :train_srgan.py
-@说明        :训练SRGAN模型
-@时间        :2020/02/24 11:37:33
-@作者        :钱彬
-@版本        :1.0
-'''
 
 
 import torch.backends.cudnn as cudnn

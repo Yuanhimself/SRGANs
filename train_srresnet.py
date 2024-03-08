@@ -1,12 +1,3 @@
-# #!/usr/bin/env python
-# # -*- encoding: utf-8 -*-
-# '''
-# @文件 :train_srresnet.py
-# @说明 :训练SRResNet
-# @时间 :2020/02/11 13:30:57
-# @作者 :钱彬
-# @版本 :1.0
-# '''
 
 
 import torch.backends.cudnn as cudnn
