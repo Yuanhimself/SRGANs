@@ -1,14 +1,3 @@
-# #!/usr/bin/env python
-# # -*- encoding: utf-8 -*-
-# '''
-# @文件        :models.py
-# @说明        :模型定义文件
-# @时间        :2020/02/13 11:42:33
-# @作者        :钱彬
-# @版本        :1.0
-# '''
-
-
 import torch
 from torch import nn
 import torchvision
