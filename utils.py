@@ -1,13 +1,3 @@
-#!/usr/bin/env python
-# -*- encoding: utf-8 -*-
-'''
-@文件        :utils.py
-@说明        :自定义数据处理函数
-@时间        :2020/02/11 12:36:48
-@作者        :钱彬
-@版本        :1.0
-'''
-
 from PIL import Image
 import os
 import json
