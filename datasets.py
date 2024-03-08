@@ -1,12 +1,4 @@
-#!/usr/bin/env python
-# -*- encoding: utf-8 -*-
-'''
-@文件        :datasets.py
-@说明        :定制化数据集加载器
-@时间        :2020/02/13 16:13:59
-@作者        :钱彬
-@版本        :1.0
-'''
+
 
 
 import torch
